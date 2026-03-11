@@ -1,0 +1,18 @@
+body{
+    background-color: rosybrown;
+}
+h1#TituloPrin{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    color: gray;
+    text-align: center;
+}
+div#Img1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
